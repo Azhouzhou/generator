@@ -10,7 +10,7 @@ import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
 import org.mybatis.generator.exception.XMLParserException;
 import org.mybatis.generator.internal.DefaultShellCallback;
-
+//类生成器
 public class GeneratorSqlmap {
 
 	public void generator() throws Exception{
