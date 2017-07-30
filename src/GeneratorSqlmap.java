@@ -13,6 +13,7 @@ import org.mybatis.generator.internal.DefaultShellCallback;
 //类生成器....
 //服务器新建的
 //test
+//test2
 public class GeneratorSqlmap {
 
 	public void generator() throws Exception{
