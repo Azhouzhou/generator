@@ -11,6 +11,7 @@ import org.mybatis.generator.config.xml.ConfigurationParser;
 import org.mybatis.generator.exception.XMLParserException;
 import org.mybatis.generator.internal.DefaultShellCallback;
 //类生成器....
+//服务器新建的
 public class GeneratorSqlmap {
 
 	public void generator() throws Exception{
